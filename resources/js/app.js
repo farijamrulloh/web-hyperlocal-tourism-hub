@@ -16,7 +16,18 @@ window.onscroll = function(){
     }
 }
 
+document.addEventListener("DOMContentLoaded", function () {
+    const showPasswordCheckbox = document.getElementById("show");
+    const passwordInput = document.getElementById("password");
 
+    showPasswordCheckbox.addEventListener("change", function () {
+        if (showPasswordCheckbox.checked) {
+            passwordInput.type = "text";
+        } else {
+            passwordInput.type = "password";
+        }
+    });
+});
 // Hamburger
 // const hamburger = document.querySelector('#hamburger');
 // const navMenu = document.querySelector('#nav-menu');

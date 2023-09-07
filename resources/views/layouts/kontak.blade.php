@@ -1,7 +1,7 @@
 @extends('template')
-@section('title_web', 'Hyperlocal | Tourism')
+@section('title_web', 'Hyperlocal | Contact')
 @section('content')
-<div class="bg-white py-6 sm:py-8 lg:py-12 text-white body-font h-screen relative mt-8 mb-12 justify-center items-center">
+<div class="bg-white py-12 mt-8 justify-center items-center">
     <div class="mx-auto max-w-screen-xl px-4 md:px-8">
         <!-- text - start -->
         <div class="mb-10 md:mb-16">

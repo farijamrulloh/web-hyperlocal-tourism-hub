@@ -1,6 +1,6 @@
 <header class="z-[999] absolute top-0 left-0 w-full flex items-center">
     <div class="container">
-        <nav class="lg:bg-transparent bg-gray-50 px-4 lg:px-6 py-2.5 dark:bg-gray-800">
+        <nav class="lg:bg-transparent bg-gray-50 px-4 lg:px-6 py-2.5">
             <div class="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
                 <a href="/" class="flex items-center">
                     <img src="Logo.svg" class="mr-2 h-12 lg:h-12 sm:h-9" alt="Hyperlocal Logo" />

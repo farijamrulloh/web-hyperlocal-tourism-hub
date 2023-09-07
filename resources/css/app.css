@@ -17,5 +17,5 @@ body {
 }
 
 .btn {
-    @apply border-0 py-2 px-6 focus:outline-none text-base focus:ring-4 font-medium rounded-3xl lg:px-5 lg:py-2.5;
+    @apply py-2 px-6 focus:outline-none text-base text-center focus:ring-4 font-medium rounded-3xl lg:px-5 lg:py-2.5;
 }

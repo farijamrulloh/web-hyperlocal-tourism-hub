@@ -1,7 +1,7 @@
 @extends('template')
 @section('title_web', 'Hyperlocal | News')
 @section('content')
-<div class="bg-white py-6 sm:py-8 lg:py-12 mt-8 justify-center items-center">
+<div class="bg-white py-12 mt-8 justify-center items-center">
   <div class="mx-auto max-w-screen-xl px-4 md:px-8">
     <!-- text - start -->
     <div class="mb-10 md:mb-16">

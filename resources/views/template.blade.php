@@ -30,8 +30,8 @@
     <section class="flex-grow">
         <!-- Your page content here -->
         
+        @yield('content')
     </section>
-    @yield('content')
     
     <div>
         @include('partials.footer')
