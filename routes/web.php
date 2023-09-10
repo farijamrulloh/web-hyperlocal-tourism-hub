@@ -21,6 +21,10 @@ Route::get('/desa', function () {
     return view('layouts.desa');
 });
 
+Route::get('/singledesa', function () {
+    return view('layouts.singledesa');
+});
+
 Route::get('/berita', function () {
     return view('layouts.berita');
 });
