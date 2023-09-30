@@ -31,7 +31,7 @@
                         </div>
                         <a href="#" class="text-sm font-medium text-primary-600 hover:underline dark:text-primary-500">Lupa Password?</a>
                     </div>
-                    <button type="submit" class="btn w-full text-white bg-primary-700 hover:bg-primary-800">Masuk</button>
+                    <a href="/dashboard" type="submit" class="btn mt-4 w-full text-white bg-primary-700 hover:bg-primary-800">Masuk</a>
                     <p class="text-sm font-light text-gray-500 dark:text-gray-400">
                         Belum mempunyai akun? <a href="/register" class="font-medium text-primary-600 hover:underline dark:text-primary-500">Register</a>
                     </p>

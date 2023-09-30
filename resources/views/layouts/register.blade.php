@@ -32,7 +32,7 @@
                             <label for="show" class="text-gray-500 dark:text-gray-300">Tampilkan Password</label>
                         </div>
                     </div>
-                    <button type="submit" class="btn w-full text-white bg-primary-700 hover:bg-primary-800">Daftar</button>
+                    <a href="/dashboard" type="submit" class="btn mt-4 w-full text-white bg-primary-700 hover:bg-primary-800">Daftar</a>
                     <p class="text-sm font-light text-gray-500 dark:text-gray-400">
                         Apakah anda sudah punya akun? <a href="/login" class="font-medium text-primary-600 hover:underline dark:text-primary-500">Login di sini</a>
                     </p>

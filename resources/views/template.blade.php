@@ -27,11 +27,9 @@
 
 <body class="flex flex-col min-h-screen">
     @include('partials.navbar')
-    <section class="flex-grow">
         <!-- Your page content here -->
 
         @yield('content')
-    </section>
 
     <div>
         @include('partials.footer')

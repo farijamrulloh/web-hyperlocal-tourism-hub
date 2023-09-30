@@ -12,7 +12,7 @@
         <!-- <h1 class="mb-8 text-center text-4xl font-bold text-white sm:text-5xl md:mb-12 md:text-6xl">Revolutionary way to build the web</h1> -->
 
         <div class="flex justify-center">
-            <button class="inline-flex text-white bg-primary-700 hover:bg-primary-800 btn">Explore</button>
+            <a href="#rekom"><button class="inline-flex text-white bg-primary-700 hover:bg-primary-800 btn">Explore</button></a>
             <button class="ml-4 inline-flex text-gray-700 bg-white hover:bg-gray-50 hover:text-primary-700 btn"><img src="play button.gif" alt="Animated GIF" class="mr-2 w-6 h-6" /><span>Video Profile</span></button>
         </div>
     </div>
@@ -25,28 +25,28 @@
         <div class="grid grid-cols-2 gap-6 rounded-3xl bg-primary-700 p-6 md:grid-cols-4 md:gap-8 md:p-8">
             <!-- stat - start -->
             <div class="flex flex-col items-center">
-                <div class="text-xl font-bold text-white sm:text-2xl md:text-3xl">200</div>
-                <div class="text-sm text-gray-300 sm:text-base">People</div>
+                <div class="text-xl font-bold text-white sm:text-2xl md:text-3xl">21</div>
+                <div class="text-sm text-gray-300 sm:text-base">Desa Wisata</div>
             </div>
             <!-- stat - end -->
 
             <!-- stat - start -->
             <div class="flex flex-col items-center">
-                <div class="text-xl font-bold text-white sm:text-2xl md:text-3xl">500+</div>
-                <div class="text-sm text-gray-300 sm:text-base">People</div>
+                <div class="text-xl font-bold text-white sm:text-2xl md:text-3xl">50+</div>
+                <div class="text-sm text-gray-300 sm:text-base">Atraksi</div>
             </div>
 
             <!-- stat - start -->
             <div class="flex flex-col items-center">
-                <div class="text-xl font-bold text-white sm:text-2xl md:text-3xl">1000+</div>
-                <div class="text-sm text-gray-300 sm:text-base">Customers</div>
+                <div class="text-xl font-bold text-white sm:text-2xl md:text-3xl">100+</div>
+                <div class="text-sm text-gray-300 sm:text-base">Kuliner</div>
             </div>
             <!-- stat - end -->
 
             <!-- stat - start -->
             <div class="flex flex-col items-center">
-                <div class="text-xl font-bold text-white sm:text-2xl md:text-3xl">A couple</div>
-                <div class="text-sm text-gray-300 sm:text-base">Coffee breaks</div>
+                <div class="text-xl font-bold text-white sm:text-2xl md:text-3xl">200+</div>
+                <div class="text-sm text-gray-300 sm:text-base">UMKM</div>
             </div>
             <!-- stat - end -->
         </div>
@@ -55,7 +55,7 @@
 <!-- Stats Section End -->
 
 <!-- Rekomendation Section Start -->
-<div class="bg-white py-12">
+<div class="bg-white py-12" id="rekom">
     <div class="mx-auto max-w-screen-xl px-4 md:px-8">
         <!-- text - start -->
         <div class="mb-10 md:mb-16">
@@ -67,32 +67,30 @@
 
         <div class="grid grid-cols-2 gap-4 sm:grid-cols-3 md:gap-6 xl:gap-8">
             <!-- image - start -->
-            <a href="#" class="group relative flex h-48 items-end justify-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:h-96">
-                <img src="https://images.unsplash.com/photo-1593508512255-86ab42a8e620?auto=format&q=75&fit=crop&w=600" loading="lazy" alt="Photo by Minh Pham" class="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110" />
+            <a href="/singledesa" class="group relative flex h-48 items-end justify-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:h-96">
+                <img src="Joho.jpeg" loading="lazy" alt="Photo by Minh Pham" class="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110" />
 
                 <div class="pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-800 via-transparent to-transparent opacity-50"></div>
 
-                <span class="relative mr-3 mb-3 inline-block rounded-lg border border-gray-500 px-2 py-1 text-xs text-gray-200 backdrop-blur md:px-3 md:text-sm">VR</span>
+                <span class="relative mr-3 mb-3 inline-block rounded-lg border border-gray-500 px-2 py-1 text-xs text-gray-200 backdrop-blur md:px-3 md:text-sm">Desa Wisata Joho</span>
             </a>
             <!-- image - end -->
-
             <!-- image - start -->
-            <a href="#" class="group relative flex h-48 items-end justify-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:h-96">
-                <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&q=75&fit=crop&w=600" loading="lazy" alt="Photo by Lorenzo Herrera" class="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110" />
+            <a href="/singledesa" class="group relative flex h-48 items-end justify-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:h-96">
+                <img src="Joho.jpeg" loading="lazy" alt="Photo by Minh Pham" class="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110" />
 
                 <div class="pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-800 via-transparent to-transparent opacity-50"></div>
 
-                <span class="relative mr-3 mb-3 inline-block rounded-lg border border-gray-500 px-2 py-1 text-xs text-gray-200 backdrop-blur md:px-3 md:text-sm">Retro</span>
+                <span class="relative mr-3 mb-3 inline-block rounded-lg border border-gray-500 px-2 py-1 text-xs text-gray-200 backdrop-blur md:px-3 md:text-sm">Desa Wisata Joho</span>
             </a>
             <!-- image - end -->
-
             <!-- image - start -->
-            <a href="#" class="group relative flex h-48 items-end justify-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:h-96">
-                <img src="https://images.unsplash.com/photo-1542759564-7ccbb6ac450a?auto=format&q=75&fit=crop&w=600" loading="lazy" alt="Photo by Magicle" class="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110" />
+            <a href="/singledesa" class="group relative flex h-48 items-end justify-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:h-96">
+                <img src="Joho.jpeg" loading="lazy" alt="Photo by Minh Pham" class="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110" />
 
                 <div class="pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-800 via-transparent to-transparent opacity-50"></div>
 
-                <span class="relative mr-3 mb-3 inline-block rounded-lg border border-gray-500 px-2 py-1 text-xs text-gray-200 backdrop-blur md:px-3 md:text-sm">Tech</span>
+                <span class="relative mr-3 mb-3 inline-block rounded-lg border border-gray-500 px-2 py-1 text-xs text-gray-200 backdrop-blur md:px-3 md:text-sm">Desa Wisata Joho</span>
             </a>
             <!-- image - end -->
         </div>
@@ -110,7 +108,7 @@
         <div class="mb-10 md:mb-16">
             <h2 class="mb-4 text-center text-2xl font-bold text-gray-800 md:mb-6 lg:text-3xl">Berita Terbaru</h2>
 
-            <p class="mx-auto max-w-screen-md text-center text-gray-500 md:text-lg">This is a section of some simple filler text, also known as placeholder text. It shares some characteristics of a real written text but is random or otherwise generated.</p>
+            <!-- <p class="mx-auto max-w-screen-md text-center text-gray-500 md:text-lg">This is a section of some simple filler text, also known as placeholder text. It shares some characteristics of a real written text but is random or otherwise generated.</p> -->
         </div>
         <!-- text - end -->
 
@@ -118,25 +116,25 @@
             <!-- article - start -->
             <div class="flex flex-col overflow-hidden rounded-lg border bg-white">
                 <a href="#" class="group relative block h-48 overflow-hidden bg-gray-100 md:h-64">
-                    <img src="https://images.unsplash.com/photo-1593508512255-86ab42a8e620?auto=format&q=75&fit=crop&w=600" loading="lazy" alt="Photo by Minh Pham" class="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110" />
+                    <img src="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/78/2023/08/28/Picsart_23-08-28_17-45-58-629-3951989568.jpg" loading="lazy" alt="Photo by Minh Pham" class="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110" />
                 </a>
 
                 <div class="flex flex-1 flex-col p-4 sm:p-6">
                     <h2 class="mb-2 text-lg font-semibold text-gray-800">
-                        <a href="#" class="transition duration-100 hover:text-primary-700 active:text-primary-700">New trends in Tech</a>
+                        <a href="#" class="transition duration-100 hover:text-primary-700 active:text-primary-700">Desa Wisata Joho bersama PPK Himaptika UNP Kediri Semarakkan Kirab Tumpeng Hasil Bumi</a>
                     </h2>
 
-                    <p class="mb-8 text-gray-500">This is a section of some simple filler text, also known as placeholder text. It shares some characteristics of a real written text.</p>
+                    <p class="mb-8 text-gray-500">KEDIRI, JP Radar Kediri - Pemerintah Desa Wisata Joho, Semen bersinergi dengan Tim Program Penguatan Kapasitas Organisasi Mahasiswa Himpunan Mahasiswa Program Pendidikan Matematika (PPK Ormawa Himaptika) Universitas Nusantara PGRI (UNP) Kediri. Mereka menggelar Festival Sumber Podang VIII dengan semarak. Mengusung tema Joho Sedekah Bumi, ratusan warga kompak unjuk kreativitas dalam acara Kirab Tumpeng Sedekah Bumi, Minggu (27/8) kemarin. ...</p>
 
                     <div class="mt-auto flex items-end justify-between">
                         <div class="flex items-center gap-2">
                             <div class="h-10 w-10 shrink-0 overflow-hidden rounded-full bg-gray-100">
-                                <img src="https://images.unsplash.com/photo-1611898872015-0571a9e38375?auto=format&q=75&fit=crop&w=64" loading="lazy" alt="Photo by Brock Wegner" class="h-full w-full object-cover object-center" />
+                                <img src="https://static.promediateknologi.id/promedia-2/network/78/mobile/images/logo.png?v=38" loading="lazy" alt="Photo by Brock Wegner" class="h-full w-full object-cover object-center" />
                             </div>
 
                             <div>
-                                <span class="block text-primary-700">Mike Lane</span>
-                                <span class="block text-sm text-gray-400">July 19, 2021</span>
+                            <span class="block text-primary-700">Anwar Bahar Basalamah</span>
+                                <span class="block text-sm text-gray-400">Agustus 28, 2023</span>
                             </div>
                         </div>
 
@@ -149,25 +147,25 @@
             <!-- article - start -->
             <div class="flex flex-col overflow-hidden rounded-lg border bg-white">
                 <a href="#" class="group relative block h-48 overflow-hidden bg-gray-100 md:h-64">
-                    <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&q=75&fit=crop&w=600" loading="lazy" alt="Photo by Lorenzo Herrera" class="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110" />
+                    <img src="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/78/2023/08/10/Foto-AJPG-1759328457.jpg" loading="lazy" alt="Photo by Lorenzo Herrera" class="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110" />
                 </a>
 
                 <div class="flex flex-1 flex-col p-4 sm:p-6">
                     <h2 class="mb-2 text-lg font-semibold text-gray-800">
-                        <a href="#" class="transition duration-100 hover:text-primary-700 active:text-primary-700">Working with legacy stacks</a>
+                        <a href="#" class="transition duration-100 hover:text-primary-700 active:text-primary-700">Bersama PPK Ormawa Himaptika UNP 2023, Warga Desa Joho Semen Lestarikan Tradisi Larung Sesaji Sumber Podang</a>
                     </h2>
 
-                    <p class="mb-8 text-gray-500">This is a section of some simple filler text, also known as placeholder text. It shares some characteristics of a real written text.</p>
+                    <p class="mb-8 text-gray-500">KEDIRI, JP Radar Kediri – Warga Desa Joho, Kecamatan Semen, Kabupaten Kediri berkolaborasi dengan Tim Program Penguatan Kapasitas Organisasi Mahasiswa Himpunan Mahasiswa Program Pendidikan Matematika (PPK Ormawa Himaptika) Universitas Nusantara PGRI (UNP) Kediri kembali menggelar ritual larung sesaji, Rabu (9/8). ...</p>
 
                     <div class="mt-auto flex items-end justify-between">
                         <div class="flex items-center gap-2">
                             <div class="h-10 w-10 shrink-0 overflow-hidden rounded-full bg-gray-100">
-                                <img src="https://images.unsplash.com/photo-1586116104126-7b8e839d5b8c?auto=format&q=75&fit=crop&w=64" loading="lazy" alt="Photo by peter bucks" class="h-full w-full object-cover object-center" />
+                                <img src="https://static.promediateknologi.id/promedia-2/network/78/mobile/images/logo.png?v=38" loading="lazy" alt="Photo by peter bucks" class="h-full w-full object-cover object-center" />
                             </div>
 
                             <div>
-                                <span class="block text-primary-700">Jane Jackobs</span>
-                                <span class="block text-sm text-gray-400">April 07, 2021</span>
+                                <span class="block text-primary-700">Anwar Bahar Basalamah</span>
+                                <span class="block text-sm text-gray-400">Agustus 10, 2023</span>
                             </div>
                         </div>
 
@@ -178,7 +176,7 @@
             <!-- article - end -->
 
             <!-- article - start -->
-            <div class="flex flex-col overflow-hidden rounded-lg border bg-white">
+            <!-- <div class="flex flex-col overflow-hidden rounded-lg border bg-white">
                 <a href="#" class="group relative block h-48 overflow-hidden bg-gray-100 md:h-64">
                     <img src="https://images.unsplash.com/photo-1542759564-7ccbb6ac450a?auto=format&q=75&fit=crop&w=600" loading="lazy" alt="Photo by Magicle" class="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110" />
                 </a>
@@ -205,11 +203,11 @@
                         <a href="/read" class="rounded border px-2 py-1 text-sm text-gray-500 hover:bg-primary-700 hover:text-white">Article</a>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <!-- article - end -->
 
             <!-- article - start -->
-            <div class="flex flex-col overflow-hidden rounded-lg border bg-white">
+            <!-- <div class="flex flex-col overflow-hidden rounded-lg border bg-white">
                 <a href="#" class="group relative block h-48 overflow-hidden bg-gray-100 md:h-64">
                     <img src="https://images.unsplash.com/photo-1610465299996-30f240ac2b1c?auto=format&q=75&fit=crop&w=600" loading="lazy" alt="Photo by Martin Sanchez" class="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110" />
                 </a>
@@ -236,10 +234,10 @@
                         <a href="/read" class="rounded border px-2 py-1 text-sm text-gray-500 hover:bg-primary-700 hover:text-white">Article</a>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <!-- article - end -->
         </div>
-        <a href="#">
+        <a href="/berita">
             <button class="flex mx-auto mt-16 text-white bg-primary-700 hover:bg-primary-800 btn">Lainnya</button>
         </a>
     </div>
@@ -274,7 +272,7 @@
             </div>
             <div class="lg:w-1/3 md:w-1/2 bg-white flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0">
                 <h2 class="text-gray-900 text-lg mb-1 font-medium title-font">Feedback</h2>
-                <p class="leading-relaxed mb-5 text-gray-600">Post-ironic portland shabby chic echo park, banjo fashion axe</p>
+                <!-- <p class="leading-relaxed mb-5 text-gray-600">Post-ironic portland shabby chic echo park, banjo fashion axe</p> -->
                 <div class="relative mb-4">
                     <label for="name" class="leading-7 text-sm text-gray-600">Nama</label>
                     <input type="text" id="name" name="name" class="w-full bg-white rounded border border-gray-300 focus:border-red-500 focus:ring-2 focus:ring-red-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out">
@@ -288,7 +286,7 @@
                     <textarea id="message" name="message" class="w-full bg-white rounded border border-gray-300 focus:border-red-500 focus:ring-2 focus:ring-red-200 h-32 text-base outline-none text-gray-700 py-1 px-3 resize-none leading-6 transition-colors duration-200 ease-in-out"></textarea>
                 </div>
                 <button class="text-white bg-primary-700 border-0 py-2 px-6 focus:outline-none hover:bg-primary-800 rounded-3xl text-lg">Kirim</button>
-                <p class="text-xs text-gray-500 mt-3">Chicharrones blog helvetica normcore iceland tousled brook viral artisan.</p>
+                <!-- <p class="text-xs text-gray-500 mt-3">Chicharrones blog helvetica normcore iceland tousled brook viral artisan.</p> -->
             </div>
         </div>
     </div>

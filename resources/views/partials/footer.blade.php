@@ -8,13 +8,13 @@
             </div>
             <div class="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
                 <div>
-                    <h2 class="mb-6 text-sm font-semibold text-gray-700 uppercase">Resources</h2>
+                    <h2 class="mb-6 text-sm font-semibold text-gray-700">About Us</h2>
                     <ul class="text-gray-700">
                         <li class="mb-4">
-                            <a href="http" class="hover:underline">Hyperlocal</a>
+                            <a href="#" class="hover:underline">Hyperlocal</a>
                         </li>
                         <li>
-                            <a href="https://tailwindcss.com/" class="hover:underline">Tailwind CSS</a>
+                            <a href="#" class="hover:underline">Our Team</a>
                         </li>
                     </ul>
                 </div>
@@ -22,10 +22,10 @@
                     <h2 class="mb-6 text-sm font-semibold text-gray-700">Follow us</h2>
                     <ul class="text-gray-700">
                         <li class="mb-4">
-                            <a href="https://github.com/themesberg/flowbite" class="hover:underline ">Github</a>
+                            <a href="https://instagram.com/ppko.himaptika_unpkdr?igshid=MzRlODBiNWFlZA==" class="hover:underline ">Instagram</a>
                         </li>
                         <li>
-                            <a href="https://discord.gg/4eeurUVvTy" class="hover:underline">Discord</a>
+                            <a href="https://www.youtube.com/channel/UCQy3QWWZwfqoRax2u5ne02A" class="hover:underline">Youtube</a>
                         </li>
                     </ul>
                 </div>
