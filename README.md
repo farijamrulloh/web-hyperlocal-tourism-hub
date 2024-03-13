@@ -8,7 +8,7 @@
 </p>
 
 ## Hyperlocal Tourism Hub
-Link Website : [text](https://joholocaltourism.id/)
+Link Website : [HyperlocalTourismHub](https://joholocaltourism.id/)
 
 ## About Laravel
 
