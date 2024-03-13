@@ -40,7 +40,7 @@
                         Total Atraksi
                     </div>
                     <div class="">
-                        100
+                        5
                     </div>
                 </div>
                 <!-- <div class=" flex items-center flex-none text-white">
@@ -63,7 +63,7 @@
                         Total Kamar Homestay
                     </div>
                     <div class="">
-                        500
+                        5
                     </div>
                 </div>
                 <!-- <div class=" flex items-center flex-none text-white">
@@ -86,7 +86,7 @@
                         Total Produk
                     </div>
                     <div class="">
-                        500
+                        5
                     </div>
                 </div>
                 <!-- <div class=" flex items-center flex-none text-white">
@@ -109,7 +109,7 @@
                         Total Kuliner
                     </div>
                     <div class="">
-                        500
+                        5
                     </div>
                 </div>
                 <!-- <div class=" flex items-center flex-none text-white">
@@ -132,7 +132,7 @@
                         Total Galeri
                     </div>
                     <div class="">
-                        100
+                        1
                     </div>
                 </div>
                 <!-- <div class=" flex items-center flex-none text-white">
@@ -155,7 +155,7 @@
                         Total Video
                     </div>
                     <div class="">
-                        500
+                        5
                     </div>
                 </div>
                 <!-- <div class=" flex items-center flex-none text-white">
@@ -178,7 +178,7 @@
                         Total Virtual Tour
                     </div>
                     <div class="">
-                        500
+                        5
                     </div>
                 </div>
                 <!-- <div class=" flex items-center flex-none text-white">
@@ -201,7 +201,7 @@
                         Total Upload Berita
                     </div>
                     <div class="">
-                        500
+                        2
                     </div>
                 </div>
                 <!-- <div class=" flex items-center flex-none text-white">
@@ -250,7 +250,7 @@
 
     function openNav() {
         if (sidebar.classList.contains('-translate-x-48')) {
-            // max sidebar 
+            // max sidebar
             sidebar.classList.remove("-translate-x-48")
             sidebar.classList.add("translate-x-none")
             maxSidebar.classList.remove("hidden")

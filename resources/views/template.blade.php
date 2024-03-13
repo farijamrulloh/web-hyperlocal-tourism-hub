@@ -2,10 +2,12 @@
 <html lang="en">
 
 <head>
-    @vite(['resources/css/app.css','resources/js/app.js'])
+    @vite(['resources/css/app.css', 'resources/js/app.js'])
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+    <meta name="csrf-token" content="{{ csrf_token() }}">
+    <link rel="shortcut icon" href="{{ asset('favicon.ico') }}" type="image/x-icon" />
+
     <title>@yield('title_web')</title>
     <style>
         /* Custom scrollbar styles */
@@ -25,14 +27,14 @@
     </style>
 </head>
 
-<body class="flex flex-col min-h-screen">
+<body class="flex flex-col min-h-screen antialiased">
     @include('partials.navbar')
-        <!-- Your page content here -->
+    <!-- Your page content here -->
 
-        @yield('content')
+    @yield('content')
 
     <div>
-        @include('partials.footer')
+        @include('partials.footer');
     </div>
 
 </body>

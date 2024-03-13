@@ -17,7 +17,7 @@
                 </div>
             </div>
 
-            <div class="hidden md:block text-sm md:text-md text-black dark:text-white">John Doe</div>
+            <div class="hidden md:block text-sm md:text-md text-black dark:text-white">Desa Wisata Joho</div>
         </div>
 
     </div>
@@ -297,10 +297,10 @@
             moon.classList.remove("hidden")
         }
     }
-    
+
     function openNav() {
         if (sidebar.classList.contains('-translate-x-48')) {
-            // max sidebar 
+            // max sidebar
             sidebar.classList.remove("-translate-x-48")
             sidebar.classList.add("translate-x-none")
             maxSidebar.classList.remove("hidden")
@@ -325,7 +325,7 @@
             logo.classList.add('ml-12')
             content.classList.remove("ml-12", "md:ml-60")
             content.classList.add("ml-12")
-            
+
         }
     }
 </script> -->
